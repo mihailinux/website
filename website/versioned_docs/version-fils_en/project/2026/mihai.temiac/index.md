@@ -118,4 +118,4 @@ The format is
 1. [Advanced version with high-end EMG sensors](https://www.youtube.com/watch?v=KSP4o_WCqVs)
 2. [OpenBionics](https://openbionics.com/en/)
 3. [OpenBionics open-source designs](https://github.com/OpenBionics/Prosthetic-Hands)
-3. [InMoov](https://inmoov.fr/)
+4. [InMoov](https://inmoov.fr/)
